@@ -3,9 +3,8 @@ import './App.css';
 import Home from './components/pages/Home';
 
 function App() {
-  //const [value, setValue] = React.useState<string>();
-
   return (
+    // eslint-disable-next-line react/jsx-filename-extension
     <Home />
   );
 }
